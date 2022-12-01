@@ -1,2 +1,2 @@
 # AdventJS-2022
-Solutions to the 2022 advent calendar
+Solving the daily problems of the Advent season 2022 from the website https://adventjs.dev
