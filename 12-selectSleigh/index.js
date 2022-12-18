@@ -1,6 +1,6 @@
 function selectSleigh(distance, sleighs) {
-  const bestSelight = sleighs
+  const bestSleigh = sleighs
     .reverse()
     .find((sleigh) => sleigh.consumption * distance <= 20);
-  return bestSelight ? bestSelight.name : null;
+  return bestSleigh ? bestSleigh.name : null;
 }
